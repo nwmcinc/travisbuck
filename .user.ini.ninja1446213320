@@ -1,0 +1,4 @@
+; BEGIN NinjaFirewall
+auto_prepend_file = /home/www/travisbuck.com/wp-content/plugins/ninjafirewall/lib/firewall.php
+; END NinjaFirewall
+
